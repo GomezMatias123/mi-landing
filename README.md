@@ -1,0 +1,2 @@
+# Mi primera landing del bootcamp 2026
+- Dentro de este nuevo proyecto se pondran en practica los conocimientos que se iran adquiriendo durante las clases extras de GIT/GITHUB del bootcamp 2026 que organiza DEVLIGHTS, como primer ejercicio se creo la carpeta donde se almacenara el proyecto y mediante la consola se ejecutan los comandos para convertirla en un repositorio para luego subirlo a uno remoto en GITHUB.
